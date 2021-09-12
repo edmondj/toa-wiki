@@ -1,10 +1,6 @@
 created: 20201213154935338
-modified: 20210127022549923
-tags: Journal
+modified: 20210724161131385
 title: Journal
 type: text/vnd.tiddlywiki
 
-* [[Session 1]]
-* [[Session 2]]
-* [[Session 3]]
-* [[Session 4]]
+<<list-links "[tag[Journal]sort[created]]">>
